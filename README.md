@@ -19,9 +19,6 @@ git, node, express, knex, sqlite, react, react-native, expo
 
 Clone o repositório, utilizando **git clone** ou faça o **download** do repositório.
 
-**aviso que o arquivo de gravação de tela do emulador que esta na pasta vídeo possui 25mb**
-
-
 
 Após clonar ou baixar o repositório instale as dependências necessárias:
 
@@ -53,7 +50,7 @@ Para visualização da aplicação mobile utilize o celular com o aplicativo *Ex
 
 **Winner Souza** 
 * [Github](https://github.com/winner852)
-* Discord - looser#0940
+* Discord - jimi#0940
 
 ## License
 

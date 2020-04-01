@@ -1,6 +1,6 @@
-/** Sample React Native App
- *  https://github.com/facebook/react-native
-*/
+
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import React from 'react';
 
