@@ -50,11 +50,7 @@ Para visualização da aplicação mobile utilize o celular com o aplicativo *Ex
 
 **Winner Souza** 
 * [Github](https://github.com/winner852)
-<<<<<<< HEAD
 * Discord - jimi#0940
-=======
-* Discord - jimmi#0940
->>>>>>> 053c09e10652d9e9e53066e5a5a77afadcca8c1e
 
 ## License
 
